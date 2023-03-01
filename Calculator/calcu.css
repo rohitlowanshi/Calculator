@@ -1,0 +1,20 @@
+.centre{
+    text-align: center;
+    font-style: italic;
+    color: rgb(112, 103, 103);
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex ;
+}
+.flex-col{
+    flex-direction: column;
+}
+.container.flex.flex-col.item-centre.mx-auto {
+    background-color: black;
+}
+.item-centre{
+    align-items: center;
+}
